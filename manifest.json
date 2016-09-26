@@ -16,8 +16,6 @@
     "newtab": "motitab.html"
   },
   "permissions": [
-    "activeTab",
-    "tabs",
-    "https://ajax.googleapis.com/"
+    "tabs"
   ]
 }
