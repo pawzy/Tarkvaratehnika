@@ -1,0 +1,28 @@
+html{
+    background-image: url(/img/background.svg);
+    background-size: auto 100%;
+    min-height: 100%;
+}
+html > body{
+    background-color: transparent;
+}
+.content{
+    clear:both;
+    text-align: center;
+}
+#quote{
+    font-size: 28px;
+}
+#author{
+    font-size: 18px;
+}
+#buttons{
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 25%;
+}
+#buttons a{
+    margin: 8px;
+    text-decoration: none;
+    font-size: 18px;
+}
