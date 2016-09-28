@@ -10,10 +10,10 @@ html > body{
     clear:both;
     text-align: center;
 }
-#quote{
+.quote{
     font-size: 28px;
 }
-#author{
+.author{
     font-size: 18px;
 }
 #buttons{
